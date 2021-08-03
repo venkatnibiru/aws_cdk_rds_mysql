@@ -1,0 +1,4 @@
+-e .
+aws-cdk.core
+aws-cdk.aws_rds
+aws-cdk.aws_ec2
